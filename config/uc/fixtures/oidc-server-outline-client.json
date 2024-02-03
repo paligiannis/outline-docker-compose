@@ -1,0 +1,32 @@
+[
+{
+ "model": "oidc_provider.client",
+ "pk": 1,
+ "fields": {
+  "name": "outline",
+  "owner": null,
+  "client_type": "confidential",
+  "client_id": "050984",
+  "client_secret": "7b8e049f03ae64644ef35a7f80a204cd0bc0571f22557af50c0855cf03b7dfb3",
+  "jwt_alg": "RS256",
+  "date_created": "2022-02-15",
+  "website_url": "",
+  "terms_url": "",
+  "contact_email": "",
+  "logo": "",
+  "reuse_consent": true,
+  "require_consent": true,
+  "_redirect_uris": "http://127.0.0.1:8888/auth/oidc.callback",
+  "_post_logout_redirect_uris": "",
+  "_scope": "",
+  "response_types": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6
+  ]
+ }
+}
+]
